@@ -1,5 +1,8 @@
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=23&pause=2000&width=435&lines=Hello+World%F0%9F%91%8B%2C+I'm+Rasika;Doing+3rd+year+B.Tech+IT+%F0%9F%93%9A" /></p>
 
+
+## <p align="center">For a comprehensive list of all the projects I have done, please refer to my [Portfolio](https://rasika-portfolio.web.app/projects)</p>
+
 # ⚡ About 
     
 I'm Rasika, a budding **Full Stack Developer**, worked on many front-end projects built with React and Vanilla JavaScript, also have experience working with back-end technologies like NodeJS, Express Js along with MongoDB and MySQL for Database. In simple words, I'm an emerging **MERN Stack** Developer.
@@ -12,10 +15,10 @@ I'm Rasika, a budding **Full Stack Developer**, worked on many front-end project
 <p align="center"><img height="22" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frasika-r&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=false"/></p>
 
 - 🚀 Check Out My Portfolio [here](https://rasika-portfolio.web.app)
-- 👩‍💻 I'm an enthusiastic developer who loves creating websites.
-- 🔭 I have experience in developing web applications using React, Vanilla Javascript.
-- 🎯 I'm listing my Projects [here](https://rasika-portfolio.web.app/projects)
-- 📣 Looking for an opportunity to contribute to the corporate world.
+- 👩‍💻 I'm an enthusiastic developer who loves creating web applications.
+- 🔭 I have experience in developing web applications using **MERN stack** i.e, MongoDB for the Database, ExpressJs and NodeJs for the back-end, React for the front-end.
+- 🎯 I'm listing my Projects in my [Portfolio](https://rasika-portfolio.web.app/projects)
+- 📣 I'm excited to collaborate with like-minded individuals and organizations to achieve their digital visions using my knowledge in MERN stack technology. 
 
 
 # Skills
